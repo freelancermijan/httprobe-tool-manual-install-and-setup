@@ -19,3 +19,6 @@
 
 #### Go back to Home dir
     cd ..
+
+#### Run this command
+    sudo ln -s /opt/httprobe/httprobe /usr/bin/httprobe
