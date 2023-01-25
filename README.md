@@ -2,5 +2,5 @@
 ## Before install you need to install go language on your system.
 ## Follow my instruction
 
-update your system
+# update your system
     sudo apt update -y
