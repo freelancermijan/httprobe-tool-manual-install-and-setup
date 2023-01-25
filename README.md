@@ -22,3 +22,6 @@
 
 #### Run this command
     sudo ln -s /opt/httprobe/httprobe /usr/bin/httprobe
+
+#### It's Done. For testing run this command
+    httprobe -h
