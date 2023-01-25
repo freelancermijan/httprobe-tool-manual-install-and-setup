@@ -1,4 +1,4 @@
-# httprobe-tool-manual-install-and-setup
+# httprobe tool manual install and setup
 ## Before install you need to install go language on your system.
 ## Follow my instruction
 
@@ -7,3 +7,6 @@
 
 #### install go language
     sudo apt install golang -y
+
+#### Go to `/opt/` directory
+    cd /otp/
