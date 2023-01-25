@@ -4,3 +4,6 @@
 
 #### update your system
     sudo apt update -y
+
+#### install go language
+    sudo apt install golang -y
