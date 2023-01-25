@@ -16,3 +16,6 @@
 
 #### Setup `main.go` file & rename it into `httprobe`
     sudo go build main.go && sudo mv main httprobe
+
+#### Go back to Home dir
+    cd ..
