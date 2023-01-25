@@ -9,4 +9,7 @@
     sudo apt install golang -y
 
 #### Go to `/opt/` directory
-    cd /otp/
+    cd /opt/
+
+#### Cloning Repository && changing dir
+    sudo git clone https://github.com/tomnomnom/httprobe.git && cd httprobe
