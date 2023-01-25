@@ -13,3 +13,6 @@
 
 #### Cloning Repository && changing dir
     sudo git clone https://github.com/tomnomnom/httprobe.git && cd httprobe
+
+#### Setup `main.go` file
+    sudo go build main.go
